@@ -1,4 +1,4 @@
-# Binder for BVCN Comparative Genomics lesson
+# Binder for some shit
 
 Initially forked from [here](https://github.com/binder-examples/conda). Thank you to the awesome [binder](https://mybinder.org/) team!
 
