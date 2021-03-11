@@ -1,0 +1,15 @@
+Alpha_bin56.fasta
+Alpha_bin65.fasta
+Alpha_bin95.fasta
+Bacteroi_bin19.fasta
+Bacteroi_bin59.fasta
+Chloro_bin125.fasta
+Chloro_bin127.fasta
+Chloro_bin16.fasta
+Chloro_bin22.fasta
+Chloro_bin90.fasta
+Firmi_ASM1328v1.fasta
+Firmi_ASM1523859v1.fasta
+Firmi_ASM2120v1.fasta
+Firmi_ASM305834v1.fasta
+
